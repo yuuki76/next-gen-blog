@@ -1,0 +1,166 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
+I am in control of my PGP key.
+I am in control of my other secret keys.
+I will update this canary within 14 days.
+Today is 2021-06-28.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
+
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
+Latest bitcoin block hash:
+000000000000000000026ce50efd0d2a0c88d7bde4af76c92a599176e4eecba4
+-----BEGIN PGP SIGNATURE-----
+
+iKcEARYKAB0WIQRUImj+KDPTbb3m/UDW9Qo4fGxZbAUCYNicqgAKCRDW9Qo4fGxZ
+bAN3AciXMxN+hCA4NrIkBayR3rQrYeOt9OOuqBV7kwTZfSrLskvpq4HlBlKUhkar
+bmI7IQeJSd8FDP9QhIABxie6a+ldq/1Ql2xxGp4S4i14lOXBVoUhmIyVqUYrcXhc
+5RPCtNbbo54kpX+9l5Klna4FaNv+/IgcAA==
+=levN
+-----END PGP SIGNATURE-----
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
+I am in control of my PGP key.
+I am in control of my other secret keys.
+I will update this canary within 14 days.
+Today is 2021-04-26.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
+
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
+Latest bitcoin block hash:
+000000000000000000053683c73c7b622dd2c592c4609c3a64199c2ed728f54f
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEbppB6NyStRfuugD0PedYauY+9SgFAmCGoQoACgkQPedYauY+
+9SiyLw//dMfyMGyHBLn+BOF0YADOFxuYjJBvC5+4xXlEvCBZXuBhSIVVizRY2V2p
+peUkuuuoprs8Zhr425Knsm1NMqIcpNzr+BW+vBCwY87NhuaEg8qeOPqs6WSnc3CX
+bdPbMhShVMWbRpoHbBxeuEsD48JA77f8Vsav0+Ohi06lXGNwikk9JSruOtE5Swmo
+uLU7XbsNaP5SbZi9yvAWFvoJve2dHtrtc8kx+Qt53vGcSgzAGj+JlQVhvVoVDbWQ
+uedwDvg3JLi45sE0cs5cGeKaZsahJDZJ8FPT7khJy6WxCGvrqK2gZBMHP4ndUGIi
+ixCTOEfMKaf4lQdmDoiwmn8CYLNwCyH2mVreH7mS/Tm7ug4QC+9lonAtq4CZ2FiH
+QbjIxmWmouggUaUgcnawWbpCQqj99G8nDee0u6PsJr+se7SSKUpchPeIqOibtpXa
+fjsOUTLZjtrXWm1ZgqenRfW4ayLQe/JVZD3LkYlSVV4HuPARUcsM3baCHQKAH1lL
+ALSrLRhL1kvL75BmKPPLScGbSdJ7sJB4wLNo0gR+2xf14VIGAQ3u9a6aByR2Y+Oe
+FPoToSDtn419YYbvuDUICoCCmWv5TZHlm57RPXCeVzYWYG/LBgQY3/nQL0CLfWWT
+B2GeYNdx5x7OSfEkhcRKLBioHNtn0MniRzqMca42K9qsxQydtHE=
+=yRAJ
+-----END PGP SIGNATURE-----
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of kris.fail (Twitter:@8A4AB,Keybase:kris57).
+I am in control of my PGP key.
+I am in control of my other secret keys.
+I will update this canary within 14 days.
+Today is 2021-04-26.
+My PGP Keys
+6E9A41E8DC92B517EEBA00F43DE7586AE63EF528
+3BCCC7CFD2597E5344DD964A729B523D11F3A8D7(Main)
+542268FE2833D36DBDE6FD40D6F50A387C6C596C
+
+My Cryptocurrency Address
+BTC
+bc1qhp5yxfhys888vr7qc4weq39yekm0q0jqlfruuz
+1qk4ZjySJDoET4REN1YwE5xTV1GBdRVEa
+ETH
+0xCD79fa8a3e2f4623a360684D7f5c53a802b9C062
+0xeCBC0a5B0A4483029debf81077cf4E5C1908D4E6
+Ripple
+rJKzCruoMcBwQgyHQ4GTX32TpDztwsBAhC
+Litecoin
+ltc1qm974vdphxrazertyzglwmyg8ad5jwuh9w7vkgq
+Dash
+XuxWuEUCJryvnVrL899BMysgP8mJXayS4D
+Stellar
+GDKC64EIYOOUXSHJ2GITOWOB43EYU2LWSJVHX2C5RIPOVTHJIU2EFI2E
+Zcash
+t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
+Monero
+4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7
+Loki
+L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ
+Cardano
+addr1q85ucdtfkmc9tnadtcdu6sryz5f82k80dfxt5aw87q998zk6u4e0kezxls24pcsk5le4cg9pr8d2mufkszn3gcw5p4msxqetwe
+
+My Mail Address(If you have sent us cryptocurrency, please let us know if you can.)
+
+kris319@protonmail.com
+Latest bitcoin block hash:
+000000000000000000053683c73c7b622dd2c592c4609c3a64199c2ed728f54f
+-----BEGIN PGP SIGNATURE-----
+
+iKcEARYKAB0WIQRUImj+KDPTbb3m/UDW9Qo4fGxZbAUCYIahGgAKCRDW9Qo4fGxZ
+bLcTAcdFauBXsdL3DY6jnMYa+3elOoDsYv27o8CVfK0UlahhzY+BzfgVE94FV/vl
+uGTXU/PFSain1kohIwAByKfYl88Zx0v+q5EWnjgl7a7TTUO6TGpsrc2TTZrpoDyv
+5wpA3IvtPzzK5shjyGUw6y58V4d/OIwqAA==
+=fn+L
+-----END PGP SIGNATURE-----
+
+BTC SIGNATURE
+IAx1bR5iROySFpI3vNXFDGrYMJUbLg2rqazhkQw5p+3tGn24ZpBfnekDJv91xYnPoqAwCprahS+KB2hUjyozIGg=
+
+BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zk7PufWQ 4V20MQ64iK41mj2 SCNwIk1J0wARvDT 1nFML1p9LmeqOWc QsKu3GuiwPfc1e9 mLVX8TYtU4K2nVq FAOmytCBhoQPZ0U 9vsAPAqopFTTLGe 7BHVSCvuzIZ9dn9 d5i0ajN6kOIQmbv 1a27APXwvGZlxP3 gCcAz2CCI8LFU6V fJm22FUWdYn1Sqy G1obpRJPFrtuZL7 eFLkHELefTnqlbn BAqCLN7v3bp9hB5 jJrR85ywQGoR0ar mlq7KiQfBAPWiZB jInrWQBu4yelE3q ZJ01tiETB7Nnlc9 DVsjFrpGRrZ73vP rHARrWfSQQl7KCO 3SybmS50IEFWgWq Ad3DJcHvJpCPC0g WUl7uJR0wR1kP0K ex7jbYqJHVNOheX FYKg329nEqxtDCh oJH5Erj48uP0Kem ql1L4eTtHYjcEJD IhLjAaUfBCttNrW rN0xGDu0BgNTbcW o9xhd9gQqddM3Qn jfqhHGxNBtNSeyF syT01mCc5wa5gbc vhLWvUaorBbVo0e mA6PGpoyc93kbr7 t8qoCc5sSsG24Ou ug1i1kwPzfJkuav WtCWJ8m7pT4O9Ng kWC8vILSrEvOtNT w1KdRjdtxaxyuiT vmqC9btzAcqKl28 FzcAQzxwrKfC8SU zmeA8bxDTcDWGiI CLcRsZSqk8Q5gQb hqvruKnO8TQVBAD FAOkF1AFw4MqiDu NfzvXezXXQKOIBg pAKIknCoPKC4ITH fZw3OBnhBux79RQ BHCrHgdGLGtf5Ja sYhnEzSlWqkMCWM 7HiJVwv2FOyvboV T4X58rLCqgKOjGW zHiflMGQc1v8gPJ 2gfjsAzqK7NNrnI r0FXhFh6qmSyMzn MLqP1gWlmQg0Q3g S4J33gNYMQTQEll Ro5CoVPmHAzVDj5 iLxQagrgyeTXwsS uKFvTuxRjxrWw8g MK1QKhItUxcf8sR VKFyVtH7ub8T0BT 2oEXwNvyo3wDEiQ edQsZxToTBdVbg8 rxXAaZck9ZOCtSn zLGndOVtbMoL2Qw mttAWurHsT8zHVh k5Hx4awxXOQxDxO naXHdSFnsuPunZe ti4ffm17vUCCdBX b3UZWOGm7I180sg RqPcA9uaHaqIp33 vSTMNCwDhv48OKE XUPADj8qZsdSRdt G5fFeKHcAOKSNj0 jf41rps8zCLym4n xC3VFSrVwd6asoY mXvRGEQHymDOUon w6Fr2L5685F2Jx7 kEVFnazdTEs7VjN rQH9ABXqoVinTgY eHm9vYHMfia7TXN pVybon6UZMpff38 BxOF3Nok97CnrD1 eeGeyCpiZeKZX5p LZEZYboOJHzJMSn 0mgBA6Lh0fSNCwf u16RpVUM5RRER3V 5LeBYYwPYnCI4b9 7w9SGdsws8sIL8n mjER5JZAgAFnFvt to2lfKBNdKETBVQ qyEzlZ0Z2EczK1B JkVhPoQCAGVcfHz z2ZJb3BPSpPpM05 qtUocbMN6LaSXUO EIUPcxO78LNQyZP HFuSgFydXPjuVXm PDPp0bLWuGlUltc 5MxK7mSs6lfNhxu nzARnGz2tcLxVI0 qVtbJNluwS35Kkl i5O7pYgMD5u1mKm bBTrscIZevj0hW9 FYAn1oA8iIP7p5s XXkpLx9MYeebFuC BkCYyqkWRAClHQy 4TorVUPgsLbDP6F 61Sf1XsRDuol9YI a12udfVdGhNjz6b 3M8wjE14Hu58UT8 8YIU9NE6ezQAwZs binf2BW9yg1nEEp Sz7fEJvvP0jVAMo basvlzVLN6QnkT5 lSQrAVRKTw71kXR 5SRwvo31fQFinSU NWIIGyO3XhWlJHY EX9GzgLuQEql3JN 8WD6P4KPPhD58HT zjc0BQT3k2HaBPm AQkGMKITNmSnKUB BSkN2XvNrJfDjTU ai15hHsrjqhEkLm VC5OCa1leZgGKPb mHlQK. END KEYBASE SALTPACK SIGNED MESSAGE.
