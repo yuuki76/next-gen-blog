@@ -144,19 +144,11 @@ night_mode: "manual"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  Home: "/"
-  About Me: "aboutme"
-  Author's home: "https://github.com/yuuki76/yuuki76.github.io/"
-  Donaiton: "donation"
-  Tags: "tags"
-  LIST:
-    - Anime Movie: "anime_movie"
-    - Literature: "literature"
-    - Game: "game"
-    - Awesome Soft,Service: "softserv"
-    - Onelinediary: "oneliner"
-    - Music: "music"
-    - Acoounts: "accounts"
+   - index.html
+   - archives.html
+   - categories.html
+   - tags.html
+   - about.md
 
 # Page default value
 # defaults:
